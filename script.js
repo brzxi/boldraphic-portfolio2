@@ -14,12 +14,12 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Portfolio items data
 const portfolioItems = [
-    { title: 'تصميم هوية بصرية', image: 'https://via.placeholder.com/400x400/5DADE2/FFFFFF?text=Portfolio+1' },
-    { title: 'تصميم سوشيال ميديا', image: 'https://via.placeholder.com/400x400/E8F48C/2C3E50?text=Portfolio+2' },
-    { title: 'تصميم شعار', image: 'https://via.placeholder.com/400x400/F39C6B/FFFFFF?text=Portfolio+3' },
-    { title: 'تصميم طباعي', image: 'https://via.placeholder.com/400x400/5DADE2/FFFFFF?text=Portfolio+4' },
-    { title: 'تصميم إعلاني', image: 'https://via.placeholder.com/400x400/E8F48C/2C3E50?text=Portfolio+5' },
-    { title: 'تصميم إبداعي', image: 'https://via.placeholder.com/400x400/F39C6B/FFFFFF?text=Portfolio+6' }
+  { title: 'هوية بصرية حديثة', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio1.webp' },
+  { title: 'تصميم شعار جريء', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio2.webp' },
+  { title: 'حملة سوشيال ميديا', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio3.webp' },
+  { title: 'تصميم إعلان مطبوع', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio4.webp' },
+  { title: 'واجهة تطبيق حديثة', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio5.webp' },
+  { title: 'تصميم تعبئة وتغليف', image: 'https://boldraphic-portfolio2.vercel.app/assets/portfolio6.webp' }
 ];
 
 // Render portfolio items
