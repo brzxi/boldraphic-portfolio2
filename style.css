@@ -4,6 +4,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root {
+  /* Boldraphic Color System */
+  --primary: oklch(0.7 0.15 220); /* أزرق سماوي */
+  --secondary: oklch(0.85 0.12 100); /* أصفر ليموني */
+  --accent: oklch(0.7 0.15 40); /* برتقالي */
+
+  --bg: oklch(0.98 0.01 100);
+  --text: oklch(0.3 0.05 220);
+  --text-light: oklch(0.55 0.05 220);
+}
 
 :root {
     /* Boldraphic Colors */
